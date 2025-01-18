@@ -1,0 +1,18 @@
+/* Card.css */
+.card {
+    border: 1px solid #ccc;         /* Border color */
+    border-radius: 12px;             /* Rounded corners */
+    padding: 20px;                   /* Inner padding for content */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+    background-color: #fff;          /* White background */
+    margin: 10px;                    /* Space between cards */
+    text-align: center;              /* Centering text */
+    max-width: 300px;                /* Max width for consistent card size */
+    transition: box-shadow 0.3s ease; /* Smooth transition on hover */
+  }
+  
+  /* Hover effect for the card */
+  .card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Bigger shadow on hover */
+  }
+  
