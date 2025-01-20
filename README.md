@@ -5,4 +5,4 @@
 
 
 - We created react functional components such as buttons, card, student
-- We also reused props
+- We also reused students prop
